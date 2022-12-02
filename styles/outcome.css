@@ -1,0 +1,20 @@
+
+footer{
+  display:flex;
+  align-items:center;
+  text-align:center;
+}
+footer > p{
+  flex:1;
+}
+
+.container{
+  display:flex;
+}
+
+.item{
+  background-color:coral;
+  margin:1em;
+  align-items:center;
+  justify-content:center;
+}
