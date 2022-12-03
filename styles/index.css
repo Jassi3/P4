@@ -7,5 +7,6 @@ footer > p{
   flex:1;
 }
 .caption{
-  color:black;
+  color:white;
+  background-color: black;
 }
